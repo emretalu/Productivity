@@ -1,0 +1,13 @@
+c:\users\emre\documents\visual studio 2010\Projects\Productivity\Productivity\bin\Debug\Productivity.exe
+c:\users\emre\documents\visual studio 2010\Projects\Productivity\Productivity\bin\Debug\Productivity.pdb
+c:\users\emre\documents\visual studio 2010\Projects\Productivity\Productivity\obj\x86\Debug\Productivity.Properties.Resources.resources
+c:\users\emre\documents\visual studio 2010\Projects\Productivity\Productivity\obj\x86\Debug\Productivity.csproj.GenerateResource.Cache
+c:\users\emre\documents\visual studio 2010\Projects\Productivity\Productivity\obj\x86\Debug\Productivity.exe
+c:\users\emre\documents\visual studio 2010\Projects\Productivity\Productivity\obj\x86\Debug\Productivity.pdb
+c:\users\emre\documents\visual studio 2010\Projects\Productivity\Productivity\obj\x86\Debug\Productivity.Login.resources
+c:\users\emre\documents\visual studio 2010\Projects\Productivity\Productivity\obj\x86\Debug\Productivity.Record.resources
+C:\Users\Emre\Documents\Visual Studio 2010\Projects\Productivity\Productivity\bin\Debug\Productivity.exe.config
+C:\Users\Emre\Documents\Visual Studio 2010\Projects\Productivity\Productivity\obj\x86\Debug\Productivity.Statistics.resources
+C:\Users\Emre\Documents\Visual Studio 2010\Projects\Productivity\Productivity\obj\x86\Debug\RdlCompile.cache
+C:\Users\Emre\Documents\Visual Studio 2010\Projects\Productivity\Productivity\obj\x86\Debug\RdlCompile.compiled
+C:\Users\Emre\Documents\Visual Studio 2010\Projects\Productivity\Productivity\obj\x86\Debug\Productivity.About.resources
